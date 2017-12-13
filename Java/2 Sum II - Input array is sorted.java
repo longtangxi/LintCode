@@ -2,7 +2,7 @@ M
 
 排序好的array. Binary Search移动start和end，核查sum。
 
-
+hah
 ```
 /*
 Given an array of integers that is already sorted in ascending order, 
